@@ -18,8 +18,6 @@
          
 4.viewport是什么意思？
 
-viewport也就是视口。viewport不限于浏览器的可视区域，可以大于浏览器可视区域。
-
 <meta name="viewport" content="width=device-width,initial-scale=1.0  maximum-scale=1.0 user-scalable=0">
 
 在苹果的规范中，meta viewport 有6个属性(暂且把content中的那些东西称为一个个属性和值)，如下：
